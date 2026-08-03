@@ -1,0 +1,41 @@
+Feedback,Category
+My payment failed but money was deducted,Billing
+I was charged twice for my order,Billing
+Please refund my payment,Billing
+Invoice amount is incorrect,Billing
+Payment gateway is not working,Billing
+My order has not arrived yet,Delivery
+Delivery is delayed by three days,Delivery
+Package was delivered to the wrong address,Delivery
+Tracking information is not updating,Delivery
+Where is my shipment,Delivery
+The app crashes when I login,Technical Support
+Website is very slow,Technical Support
+I cannot reset my password,Technical Support
+The application keeps freezing,Technical Support
+I am getting an error while making payment,Technical Support
+The product quality is poor,Product
+The item is damaged,Product
+The product is different from the picture,Product
+The size is incorrect,Product
+The product stopped working after one day,Product
+I need more information about your services,General Inquiry
+What are your working hours,General Inquiry
+How can I contact customer support,General Inquiry
+Do you offer international shipping,General Inquiry
+Where is your office located,General Inquiry
+The color of the product is fading,Product
+My internet banking payment failed,Billing
+The delivery person never arrived,Delivery
+The app closes automatically,Technical Support
+Can you explain your return policy,General Inquiry
+I received an empty package,Delivery
+My credit card was charged incorrectly,Billing
+The screen is not responding,Technical Support
+I want to know about your warranty,General Inquiry
+The product is missing accessories,Product
+The order status is not updated,Delivery
+I cannot sign into my account,Technical Support
+Please cancel my order and refund the money,Billing
+How long does delivery usually take,General Inquiry
+The product arrived broken,Product
